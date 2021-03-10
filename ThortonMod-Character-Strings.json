@@ -1,13 +1,13 @@
 {
-  "thethorton:theThorton": {
-    "NAMES": [
-      "The Thorton",
-      "the Thorton"
-    ],
-    "TEXT": [
-      "Hi! I'm Thorton. I don't know what happened, but I seem to be stuck here! NL Can you help? Please, I'm scared!",
-      "NL You OBLITERATE THE HEART.",
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~basic~ ~dude,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
-    ]
-  }
+    "thethorton:theThorton": {
+        "NAMES": [
+            "Хортон",
+            "Хортон"
+        ],
+        "TEXT": [
+            "Привет! Я Хортон. Не знаю, что произошло, но, по видимому, я застрял здесь! NL Вы можете помочь? Прошу, Мне страшно!",
+            "NL Вы СТИРАЕТЕ СЕРДЦЕ.",
+            "Пробираясь по тёмной улице, вы застаёте несколько таинственных фигур в процессе какого-то тёмного ритуала. Вы подходите ближе, и все они одновременно поворачиваются к вам. Самый высокий из них оголяет клыки и протягивает к вам длинную бледную руку. NL ~«Стань~ ~одним~ ~из~ ~нас,~ ~обычный~ ~парень,~ ~и~ ~ощути~ ~тепло~ ~Шпиля».~"
+        ]
+    }
 }
