@@ -232,8 +232,8 @@
         "DESCRIPTION": "Даёт !M! золота. NL Даёт !B! Защиты. NL Наносит !D! урона. NL Сжигается."
     },
     "thethorton:PlanAhead": {
-        "NAME": "Plan Ahead",
-        "DESCRIPTION": "Choose a bonus to start the next combat with. NL Сжигается."
+        "NAME": "План на будущее",
+        "DESCRIPTION": "Выберите бонус, с которым вы начнете след. бой. NL Сжигается."
     },
     "thethorton:PocketChange": {
         "NAME": "Карманные деньги",
@@ -258,7 +258,7 @@
         "DESCRIPTION": "Получите !M! золота. NL thethorton:Убегание. NL Сжигается."
     },
     "thethorton:ROI": {
-        "NAME": "ROI",
+        "NAME": "Рентабельность",
         "DESCRIPTION": "Эфирная. NL Получите !M! золота. NL Сжигается."
     },
     "thethorton:RunningFeint": {
@@ -270,13 +270,13 @@
         "DESCRIPTION": "Наносит !D! урона. NL thethorton:Убегание."
     },
     "thethorton:ScalingIsWin": {
-        "NAME": "Scaling Is Win",
+        "NAME": "Рост это победа",
         "DESCRIPTION": "Даёт 1 Силы в начале каждого вашего хода.",
         "UPGRADE_DESCRIPTION": "Вы получаете 1 Силы и берёте 1 доп. карту в начале каждого вашего хода."
     },
     "thethorton:SeeingDouble": {
-        "NAME": "Seeing Double",
-        "DESCRIPTION": "Эфирная. NL Choose a card in your hand. NL Кладете 2 copies of that card on top of your берёте pile. NL Сжигается."
+        "NAME": "Двоение в глазах",
+        "DESCRIPTION": "Эфирная. NL Выберите карту в руке. NL Вы кладете 2 копии выбранной карты на верх стопки добора. NL Сжигается."
     },
     "thethorton:ShoutAndRun": {
         "NAME": "Побег с криком",
@@ -293,11 +293,11 @@
     "thethorton:SnowDay": {
         "NAME": "Снежный день",
         "DESCRIPTION": "Заряжет 1 Сферу Льда. NL thethorton:Убегание. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Заряжет 1 Сферу Льда. NL thethorton:Убегание. NL Exhaustive !stslib:ex!."
+        "UPGRADE_DESCRIPTION": "Заряжет 1 Сферу Льда. NL thethorton:Убегание. NL Сжигаемая !stslib:ex!."
     },
     "thethorton:StampSmack": {
-        "NAME": "Stamp Smack",
-        "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Наносит !D! урона to a random враг at the start of the next combat. NL Сжигается."
+        "NAME": "Прихлопнуть печатью",
+        "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Наносит !D! урона случ. врагу в начале след. боя. NL Сжигается."
     },
     "thethorton:Strike": {
         "NAME": "Удар",
@@ -336,7 +336,7 @@
         "DESCRIPTION": "Наносит !D! урона. NL Снимает все отриц. эффекты."
     },
     "thethorton:SellShort": {
-        "NAME": "Sell Short",
+        "NAME": "Краткосрочная продажа",
         "DESCRIPTION": "Эфирная. NL Добавляет 1 копию карты в руке в колоду навсегда. NL Сжигается."
     },
     "thethorton:SummonProfit": {
