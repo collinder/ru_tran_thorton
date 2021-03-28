@@ -1,8 +1,8 @@
 {
     "thethorton:AdministrativeActions": {
-        "NAME": "Administrative Actions",
-        "DESCRIPTION": "Choose any Thorton card and Кладете it on top of your берёте pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Choose any card and Кладете it on top of your берёте pile. NL Сжигается."
+        "NAME": "Административные действия",
+        "DESCRIPTION": "Добавляет любую выбранную карту Тортона на верх стопки добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет любую выбранную карту на верх стопки добора. NL Сжигается."
     },
     "thethorton:AngerMoment": {
         "NAME": "Момент гнева",
@@ -13,16 +13,16 @@
         "DESCRIPTION": "Вы берёте !M! карт. NL Вы больше не сможете брать карты в этом ходу."
     },
     "thethorton:BigBreak": {
-        "NAME": "Big Break",
-        "DESCRIPTION": "Получите 3 Силы.",
-        "UPGRADE_DESCRIPTION": "Начальная. NL Получите 3 Силы."
+        "NAME": "Большой перерыв",
+        "DESCRIPTION": "Даёт 3 Силы.",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Даёт 3 Силы."
     },
     "thethorton:BoardroomBlast": {
         "NAME": "Boardroom Blast",
         "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам."
     },
     "thethorton:BookBash": {
-        "NAME": "Book Bash",
+        "NAME": "Проломить книгой",
         "DESCRIPTION": "Наносит !D! урона X раз."
     },
     "thethorton:BusinessBash": {
@@ -31,22 +31,22 @@
         "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет улучшенную thethorton:карту_бизнеса в руку. NL Сжигается."
     },
     "thethorton:BusinessBoom": {
-        "NAME": "бизнес Boom",
+        "NAME": "Бизнес-бум",
         "DESCRIPTION": "Наносит !D! урона. NL Добавляет thethorton:карту_бизнеса в стопку добора. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет улучшенную thethorton:карту_бизнеса в стопку добора. NL Сжигается."
     },
     "thethorton:BusinessBurst": {
-        "NAME": "бизнес Burst",
+        "NAME": "Бизнес-порыв",
         "DESCRIPTION": "Получите 5 золота. NL Добавляет 2 thethorton:карты_бизнеса в стопку добора. NL Сжигается."
     },
     "thethorton:BusinessCard": {
         "NAME": "Карта бизнеса",
-        "DESCRIPTION": "Whenever you play 10 thethorton:карта_бизнеса, Получите реликвию, . NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Whenever you play 10 thethorton:карта_бизнеса, получите a реликвия. NL берёте 1 card. NL Сжигается."
+        "DESCRIPTION": "Получите реликвию, когда разыгрываете 10 thethorton:карта_бизнеса. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Получите реликвию, когда разыгрываете 10 thethorton:карта_бизнеса. NL Вы берёте 1 card. NL Сжигается."
     },
     "thethorton:CallIn": {
-        "NAME": "CВСЕМ In",
-        "DESCRIPTION": "Получите !B! Защиты. NL Вы получаете !M! Хрупкости."
+        "NAME": "Призыв",
+        "DESCRIPTION": "Даёт !B! Защиты. NL Вы получаете !M! Хрупкости."
     },
     "thethorton:CallShop": {
         "NAME": "Чувство коммерции",
@@ -57,24 +57,24 @@
         "DESCRIPTION": "Даёт 1 Несязаемости."
     },
     "thethorton:CashBash": {
-        "NAME": "Cash Bash",
+        "NAME": "Проломить бабками",
         "DESCRIPTION": "Даёт !M! золота. NL Наносит !D! урона. NL Сжигается."
     },
     "thethorton:ChartProject": {
-        "NAME": "Chart Project",
-        "DESCRIPTION": "If the враг intends to attack, Получите !B! Защиты. NL Otherwise, Получите [E] and берёте 1 card next turn.",
-        "UPGRADE_DESCRIPTION": "берёте 1 card. NL If the враг intends to attack, Получите !B! Защиты. NL Otherwise, Получите [E] and берёте 1 card next turn."
+        "NAME": "График проекта",
+        "DESCRIPTION": "Даёт !B! Защиты, если выбранный враг собирается атаковать. NL Иначе, вы получаете [E] и берёте 1 карту в след. ходу.",
+        "UPGRADE_DESCRIPTION": "Вы берёте 1 карту. NL Даёт !B! Защиты, если выбранный враг собирается атаковать. NL Иначе, вы получаете [E] и берёте 1 карту в след. ходу."
     },
     "thethorton:CoinClash": {
-        "NAME": "Coin Clash",
+        "NAME": "Скрестить монеты",
         "DESCRIPTION": "Получите !M! золота. NL Наносит !D! урона. NL Сжигается."
     },
     "thethorton:CoinShield": {
-        "NAME": "Coin Shield",
+        "NAME": "Монетный щит",
         "DESCRIPTION": "Получите !M! золота. NL Получите !B! Защиты. NL Сжигается."
     },
     "thethorton:GemGun": {
-        "NAME": "Gem Gun",
+        "NAME": "Самоцветная пушка",
         "DESCRIPTION": "Наносит !D! урона !M! раз. NL Даёт 50 золота, если ВСЕ три самоцвета совпадают. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Наносит !D! урона !M! раз. NL Даёт 50 золота, если как минимум 3 Самоцвета совпадают. NL Сжигается."
     },
@@ -83,16 +83,16 @@
         "DESCRIPTION": "thethorton:Убегание. NL thethorton:Убегание в начале каждого вашего хода."
     },
     "thethorton:Crash": {
-        "NAME": "Crash",
+        "NAME": "Крушение",
         "DESCRIPTION": "Наносит !D! урона. NL Получите !B! Защиты. NL thethorton:Убегание."
     },
     "thethorton:CrashingStocks": {
-        "NAME": "Crashing Stocks",
-        "DESCRIPTION": "If you have at least 100 золота, Отнимает 100 золота and Наносит !D! урона to ВСЕМ врагам."
+        "NAME": "Крушение акций",
+        "DESCRIPTION": "Отнимает 100 золота и наносит !D! урона  ВСЕМ врагам, если у вас есть как минимум 100 золота."
     },
     "thethorton:CreditCard": {
         "NAME": "Кредитка",
-        "DESCRIPTION": "Даёт !M! золота. NL Can be Upgraded any number of times. NL Сжигается."
+        "DESCRIPTION": "Даёт !M! золота. NL Можно Улучшать неограниченное количество раз. NL Сжигается."
     },
     "thethorton:Defend": {
         "NAME": "Оборона",
@@ -104,67 +104,67 @@
     },
     "thethorton:Demotion": {
         "NAME": "Понижение",
-        "DESCRIPTION": "ВСЕ враги  cannot buff themselves or debuff you. NL Сжигается."
+        "DESCRIPTION": "ВСЕ враги не могут накладывать полож. и отриц. эффекты. NL Сжигается."
     },
     "thethorton:DesperateRun": {
-        "NAME": "Desperate Убегание",
-        "DESCRIPTION": "берёте !M! cards. NL thethorton:Убегание."
+        "NAME": "Отчаянное убегание",
+        "DESCRIPTION": "Вы берёте !M! cards. NL thethorton:Убегание."
     },
     "thethorton:Distance": {
-        "NAME": "Distance",
-        "DESCRIPTION": "Получите !B! Защиты. NL Накладывает 1 Слабости to ВСЕМ врагам."
+        "NAME": "Отдалиться",
+        "DESCRIPTION": "Получите !B! Защиты. NL Накладывает 1 Слабости на ВСЕХ врагов."
     },
     "thethorton:DockPay": {
-        "NAME": "Dock Pay",
-        "DESCRIPTION": "Наносит !D! урона. NL враг Отнимает !M! Силы this turn."
+        "NAME": "Док-оплата",
+        "DESCRIPTION": "Наносит !D! урона. NL Враг теряет !M! Силы до конца своего хода."
     },
     "thethorton:DodgeAndRollAndRun": {
-        "NAME": "Dodge & Roll & Убегание",
-        "DESCRIPTION": "Получите !B! Защиты. NL Next turn, Получите !B! Защиты. NL thethorton:Убегание."
+        "NAME": "Уворот & Перекат & Убегание",
+        "DESCRIPTION": "Получите !B! Защиты. NL Даёт !B! Защиты в след. ходу. NL thethorton:Убегание."
     },
     "thethorton:DoubleRun": {
         "NAME": "Убегание Убегание",
         "DESCRIPTION": "thethorton:Убегание. NL thethorton:Убегание."
     },
     "thethorton:DownPayment": {
-        "NAME": "Down Payment",
-        "DESCRIPTION": "The top card of your берёте pile costs 0 until played."
+        "NAME": "Первоначальный взнос",
+        "DESCRIPTION": "Верхняя карта стопки добора стоит 0, пока не разыгранна."
     },
     "thethorton:DualBap": {
-        "NAME": "Quintuple Bop",
+        "NAME": "Двойной боп",
         "DESCRIPTION": "Наносит !D! урона дважды."
     },
     "thethorton:ElbowSmash": {
-        "NAME": "Elbow Nudge",
-        "DESCRIPTION": "Наносит !D! урона. NL берёте 1 additional card next turn."
+        "NAME": "Подтолкнуть под локоть",
+        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 доп. карту в след. ходу."
     },
     "thethorton:EquivalentExchange": {
-        "NAME": "Fair Trade",
-        "DESCRIPTION": "Сжигается 1 card. NL Кладете a card from your Сжигается pile into your hand. NL Сжигается."
+        "NAME": "Честная игра",
+        "DESCRIPTION": "Сжигает 1 карту. NL Вы кладёте карту из стопки Сжигания в руку. NL Сжигается."
     },
     "thethorton:SheetShred": {
-        "NAME": "Sheet Shred",
-        "DESCRIPTION": "Получите !B! Защиты. NL At the start of each of your turns, Наносит !M! урона to ВСЕМ врагам. NL Shuffle this card into your берёте pile."
+        "NAME": "Измельчить листы",
+        "DESCRIPTION": "Получите !B! Защиты. NL Наносит !M! урона ВСЕМ врагам в начале каждого вашего хода. NL Сбрасывается в стопку добора."
     },
     "thethorton:Escape": {
-        "NAME": "Escape!",
-        "DESCRIPTION": "33% chance to Сбежать a non-boss combat. NL Receive no rewards. NL thethorton:Убегание. NL Exhaustive !stslib:ex!.",
-        "UPGRADE_DESCRIPTION": "33% chance to Сбежать a non-boss combat. NL thethorton:Убегание. NL Exhaustive !stslib:ex!."
+        "NAME": "Сбежать!",
+        "DESCRIPTION": "33% шанс Сбежать из боя, не получив наград. NL Не работает на боссов. NL thethorton:Убегание. NL Exhaustive !stslib:ex!.",
+        "UPGRADE_DESCRIPTION": "33% шанс Сбежать из боя. NL Не работает на боссов. NL thethorton:Убегание. NL Exhaustive !stslib:ex!."
     },
     "thethorton:Fatigue": {
-        "NAME": "Fatigue",
-        "DESCRIPTION": "Накладывает Слабости equal to your held золота. NL Сжигается."
+        "NAME": "Изнурить",
+        "DESCRIPTION": "Накладывает Слабости, сколько у вас сейчас золота. NL Сжигается."
     },
     "thethorton:FearfulRun": {
-        "NAME": "Fearful Убегание",
+        "NAME": "Испуганное убегание",
         "DESCRIPTION": "Получите !B! Защиты. NL thethorton:Убегание."
     },
     "thethorton:Fish": {
-        "NAME": "Message From Our Sponsors",
-        "DESCRIPTION": "Unplayable. NL Fun fact: You can commission me to make your custom mod idea! Contact Vex'd#2468 on Discord for more info.",
-        "UPGRADE_DESCRIPTION": "Эфирная. NL Cost cannot be modified. NL получите a реликвия. NL Сжигается.",
+        "NAME": "Сообщение от спонсоров",
+        "DESCRIPTION": "Неиграбельная. NL Веселый факт: Вы можете заказать мне реализацию вашей идее для мода! Свяжитель с Vex'd#2468 в Discord, чтобы узнать больше.",
+        "UPGRADE_DESCRIPTION": "Эфирная. NL Цену нельзя изменить. NL Даёт реликвию. NL Сжигается.",
         "EXTENDED_DESCRIPTION": [
-            "I haven't Gathered enough Pyro Buddies!"
+            "Я не собрал достаточно дружков поджигателей!"
         ]
     },
     "thethorton:FocusStrength": {
@@ -172,25 +172,25 @@
         "DESCRIPTION": "Получите 1 Силы. NL Завершает ваш хад."
     },
     "thethorton:Fortune": {
-        "NAME": "Fortune",
+        "NAME": "Состояние",
         "DESCRIPTION": "Получите X0 золота. NL Refund !stslib:refund!. NL Сжигается."
     },
     "thethorton:GoldBuffer": {
-        "NAME": "Cash Buffer",
+        "NAME": "Денежный барьер",
         "DESCRIPTION": "Даёт !M! золота. NL Получите !B! Защиты. NL Сжигается."
     },
     "thethorton:Heckle": {
-        "NAME": "Heckle",
+        "NAME": "Почесать",
         "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости. NL Накладывает !M! Слабости."
     },
     "thethorton:HedgeFund": {
-        "NAME": "Hedge Fund",
-        "DESCRIPTION": "Наносит !D! урона. NL Next turn, берёте 1 less card."
+        "NAME": "Хедж-фонд",
+        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте на 1 карту меньше в след. ходу."
     },
     "thethorton:Hexaghostify": {
-        "NAME": "Hexaghostify",
-        "DESCRIPTION": "Grave. NL враг becomes a Hexaghost. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Grave. NL ВСЕМ врагам become Hexaghosts. NL Сжигается."
+        "NAME": "Гексадухировать",
+        "DESCRIPTION": "Закопанная. NL Враг становится Гексадухом. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Закопанная. NL ВСЕ враги становятся Гексадухами. NL Сжигается."
     },
     "thethorton:Hindsight": {
         "NAME": "Hindsight",
@@ -210,8 +210,8 @@
     },
     "thethorton:LongDaysWork": {
         "NAME": "Long Day's Work",
-        "DESCRIPTION": "Наносит !D! урона. NL берёте 1 card. NL Сжигается 1 card at random.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL берёте 1 card. NL Сжигается 1 card."
+        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигается 1 card at random.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигается 1 card."
     },
     "thethorton:LongTermPayoff": {
         "NAME": "Long Term Payoff",
@@ -219,26 +219,26 @@
     },
     "thethorton:MomentaryBreak": {
         "NAME": "Lunch Break",
-        "DESCRIPTION": "Heal !M! ОЗ. NL Shuffle a thethorton:карта_бизнеса into your берёте pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Heal !M! ОЗ. NL Добавляет a thethorton:карта_бизнеса into your hand. NL Сжигается."
+        "DESCRIPTION": "Восполняет !M! ОЗ. NL Добавляет thethorton:карта_бизнеса в стопку добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. NL Добавляет thethorton:карта_бизнеса в руку. NL Сжигается."
     },
     "thethorton:OddChange": {
-        "NAME": "Perplexing Power",
+        "NAME": "Талант озадачивать",
         "DESCRIPTION": "Получите 3 of either Malleable, Artifact, Thorns or Plated Armor randomly.",
         "UPGRADE_DESCRIPTION": "Начальная. NL Получите 3 of either Malleable, Artifact, Thorns or Plated Armor randomly."
     },
     "thethorton:PennyToss": {
-        "NAME": "Penny Toss",
-        "DESCRIPTION": "Даёт !M! золота. NL Получите !B! Защиты. NL Наносит !D! урона. NL Сжигается."
+        "NAME": "Бросок монеты",
+        "DESCRIPTION": "Даёт !M! золота. NL Даёт !B! Защиты. NL Наносит !D! урона. NL Сжигается."
     },
     "thethorton:PlanAhead": {
         "NAME": "Plan Ahead",
         "DESCRIPTION": "Choose a bonus to start the next combat with. NL Сжигается."
     },
     "thethorton:PocketChange": {
-        "NAME": "Pocket Change",
-        "DESCRIPTION": "Получите !M! золота. NL Получите !B! Защиты. NL Наносит !D! урона. NL берёте !M! card. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Получите !M! золота. NL Получите !B! Защиты. NL Наносит !D! урона. NL берёте !M! cards. NL Сжигается."
+        "NAME": "Карманные деньги",
+        "DESCRIPTION": "Даёт !M! золота. NL Даёт !B! Защиты. NL Наносит !D! урона. NL Вы берёте !M! карты. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Даёт !M! золота. NL Даёт !B! Защиты. NL Наносит !D! урона. NL Вы берёте !M! карты. NL Сжигается."
     },
     "thethorton:Portfolio": {
         "NAME": "Портфолио",
@@ -250,11 +250,11 @@
         "DESCRIPTION": "Даёт 1 Силы. NL Получите 1 Ловкости."
     },
     "thethorton:Rebalance": {
-        "NAME": "Rebalance",
-        "DESCRIPTION": "Получите 1 Силы. NL ВСЕ враги теряют 1 Силы. NL Exhaustive !stslib:ex!."
+        "NAME": "Перебалансировка",
+        "DESCRIPTION": "Получите 1 Силы. NL ВСЕ враги теряют 1 Силы. NL Сжигаемая !stslib:ex!."
     },
     "thethorton:RichRun": {
-        "NAME": "Убегание бизнес",
+        "NAME": "Побег с деньгами",
         "DESCRIPTION": "Получите !M! золота. NL thethorton:Убегание. NL Сжигается."
     },
     "thethorton:ROI": {
@@ -262,11 +262,11 @@
         "DESCRIPTION": "Эфирная. NL Получите !M! золота. NL Сжигается."
     },
     "thethorton:RunningFeint": {
-        "NAME": "Убегание Feint",
+        "NAME": "Побег с финтом ",
         "DESCRIPTION": "Накладывает !M! Уязвимости. NL thethorton:Убегание."
     },
     "thethorton:RunningKick": {
-        "NAME": "Убегание Kick",
+        "NAME": "Побег с пином",
         "DESCRIPTION": "Наносит !D! урона. NL thethorton:Убегание."
     },
     "thethorton:ScalingIsWin": {
@@ -279,11 +279,11 @@
         "DESCRIPTION": "Эфирная. NL Choose a card in your hand. NL Кладете 2 copies of that card on top of your берёте pile. NL Сжигается."
     },
     "thethorton:ShoutAndRun": {
-        "NAME": "Shout and Убегание",
+        "NAME": "Побег с криком",
         "DESCRIPTION": "Накладывает !M! Слабости. NL thethorton:Убегание."
     },
     "thethorton:SicklyRun": {
-        "NAME": "Wailing Убегание",
+        "NAME": "Побег в слезах",
         "DESCRIPTION": "ВСЕ враги теряют !M! Силы в этом ходу. NL thethorton:Убегание."
     },
     "thethorton:Siphon": {
@@ -291,7 +291,7 @@
         "DESCRIPTION": "Наносит !D! урона. NL Получите Временного_ОЗ за весь урон по ОЗ врагов. NL Сжигается."
     },
     "thethorton:SnowDay": {
-        "NAME": "Snow Day",
+        "NAME": "Снежный день",
         "DESCRIPTION": "Заряжет 1 Сферу Льда. NL thethorton:Убегание. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Заряжет 1 Сферу Льда. NL thethorton:Убегание. NL Exhaustive !stslib:ex!."
     },
@@ -308,28 +308,28 @@
         "DESCRIPTION": "Наносит !D! урона."
     },
     "thethorton:StumblingSlap": {
-        "NAME": "Stumbling Slap",
-        "DESCRIPTION": "Наносит !D! урона. Получите !B! Защиты, если на вас висит Слабость."
+        "NAME": "Неуклюжая пощечина",
+        "DESCRIPTION": "Наносит !D! урона. Даёт !B! Защиты, если на вас висит Слабость."
     },
     "thethorton:TakeAccounts": {
-        "NAME": "Take Accounts",
+        "NAME": "Забрать счета",
         "DESCRIPTION": "Наносит !D! урона. NL Вы берёте !M! карт."
     },
     "thethorton:TemporalBlast": {
-        "NAME": "Temporal Blast",
-        "DESCRIPTION": "Эфирная. NL Play a copy of the next card you play this turn at the start of the next combat. NL Сжигается."
+        "NAME": "Временной взрыв",
+        "DESCRIPTION": "Эфирная. NL Копия следующей карты в этом ходу разыгрывается в начале следующего боя. NL Сжигается."
     },
     "thethorton:ThickSkin": {
         "NAME": "Толстокожесть",
-        "DESCRIPTION": "Whenever you Отнимает non-Temporary ОЗ, Получите 2 Temporary_ОЗ."
+        "DESCRIPTION": "Даёт 2 временных_оз, когда вы теряете не временные ОЗ."
     },
     "thethorton:ToxicGreed": {
         "NAME": "Токсичная жадность",
         "DESCRIPTION": "Накладывает 3 Яда на случ. врага. Повторяет вплоть до 5 раз за каждые 100 золота. NL Сжигается."
     },
     "thethorton:WhirlingBriefcase": {
-        "NAME": "Whirling Briefcase",
-        "DESCRIPTION": "Получите !M! золота for each враг. NL Наносит !D! урона to ВСЕМ врагам. NL Сжигается."
+        "NAME": "Вертящийся портфель",
+        "DESCRIPTION": "Даёт !M! золота за каждого врага. NL Наносит !D! урона ВСЕМ врагам. NL Сжигается."
     },
     "thethorton:YoureFired": {
         "NAME": "Уволен",
@@ -337,12 +337,12 @@
     },
     "thethorton:SellShort": {
         "NAME": "Sell Short",
-        "DESCRIPTION": "Эфирная. NL Добавляет 1 copy of a card in your hand to your deck permanently. NL Сжигается."
+        "DESCRIPTION": "Эфирная. NL Добавляет 1 копию карты в руке в колоду навсегда. NL Сжигается."
     },
     "thethorton:SummonProfit": {
-        "NAME": "Summon Profits",
-        "DESCRIPTION": "Добавляет 1 случ. карту  from any color into your hand. NL берёте 1 card. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Добавляет 1 random card from any color into your hand. NL берёте 1 card. NL They cost 0 until played. NL Сжигается."
+        "NAME": "Собрать прибыль",
+        "DESCRIPTION": "Добавляет 1 случ. карту случ. цвета в руку. NL Вы берёте 1 карту. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет 1 случ. карту любого цвета в руку. NL Вы берёте 1 карту. NL Она стоит 0, пока не разыграна. NL Сжигается."
     },
     "thethorton:FeelNoBrain": {
         "NAME": "Забыть о мозгах",
@@ -358,17 +358,17 @@
         "DESCRIPTION": "Удвойте золото на этой карте или получите !M! золота и удалите эту карту из колоды. NL Сжигается."
     },
     "thethorton:CannonShot": {
-        "NAME": "Планомерное устаревание",
+        "NAME": "Планомерное старение",
         "DESCRIPTION": "Эфирная. NL Наносит !D! урона. NL Наносит !M! урона боссу этого акта. NL Сжигается."
     },
     "thethorton:TrueForm": {
         "NAME": "Просто бизнес",
-        "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигает ВСЕ карты. NL Choose an Intent at the start of your turn."
+        "DESCRIPTION": "Даёт 1 Неосязаемости. NL Сжигает ВСЕ карты. NL Выберите Намерение в начале своего хода."
     },
     "thethorton:CoffeeBlast": {
-        "NAME": "Coffee Blast",
-        "DESCRIPTION": "Добавляет 2 random cards from any color into your hand. NL They have Retain. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет 2 случ. карт from any color into your hand. NL They have Retain. NL Сжигается."
+        "NAME": "Инъекция кофе",
+        "DESCRIPTION": "Добавляет 2 случ. карты любого цвета в руку. NL Эти карты Оставляются. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Добавляет 2 случ. карты любого цвета в руку. NL Эти карты Оставляются. NL Сжигается."
     },
     "thethorton:DeepFear": {
         "NAME": "Запрятанный страх",
@@ -379,9 +379,9 @@
         "DESCRIPTION": "При получении даёт 300 золота. NL Сжигается."
     },
     "thethorton:GoldenPetal": {
-        "NAME": "Golden Petal",
-        "DESCRIPTION": "Эфирная. NL Card rewards from this combat are Rare cards from any class. NL Fleeting.",
-        "UPGRADE_DESCRIPTION": "Эфирная. NL Card rewards from this combat are Rare cards from any class. NL Сжигается."
+        "NAME": "Золотой лепесток",
+        "DESCRIPTION": "Эфирная. NL Наградные карты от этого боя - Редкие карты всех цветов. NL Изгоняется.",
+        "UPGRADE_DESCRIPTION": "Эфирная. NL Наградные карты от этого боя - Редкие карты всех цветов. NL Сжигается."
     },
     "thethorton:SuperStrike": {
         "NAME": "Удар?",
@@ -392,18 +392,18 @@
         "DESCRIPTION": "Shield yourself from враг attacks with your briefcase, completely preventing the next !B! physical урона taken this turn. The amount of урона prevented is increased by the user's Dexterity. This card moves to the discard pile when played."
     },
     "thethorton:MidnightStrike": {
-        "NAME": "Midnight Удар",
-        "DESCRIPTION": "Can only be played if you have played exactly 11 cards this combat. NL Наносит !D! урона. NL Сжигается.",
+        "NAME": "Полуночный Удар",
+        "DESCRIPTION": "Можно разыграть, если вы разыгралии ровно 11 карт в этом бою. NL Наносит !D! урона. NL Сжигается.",
         "EXTENDED_DESCRIPTION": [
-            " NL ( !M! cards left.)",
-            "I need to play ",
-            " more cards!",
-            " NL (TOO LATE!)",
-            " NL (It's time!)"
+            " NL ( !M! карт осталось.)",
+            "Мне нужно разыграть на ",
+            " карт больше!",
+            " NL (СЛИШКОМ ПОЗДНО!)",
+            " NL (Время настало!)"
         ]
     },
     "thethorton:Nibble": {
-        "NAME": "Nibble",
+        "NAME": "Клев",
         "DESCRIPTION": "Наносит !D! урона. NL Получите !M! Temporary_ОЗ."
     },
     "thethorton:OhNo": {
