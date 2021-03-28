@@ -193,39 +193,39 @@
         "UPGRADE_DESCRIPTION": "Закопанная. NL ВСЕ враги становятся Гексадухами. NL Сжигается."
     },
     "thethorton:Hindsight": {
-        "NAME": "Hindsight",
-        "DESCRIPTION": "Next turn, Получите !B! Защиты. NL Кладете a card from your discard pile into your hand."
+        "NAME": "Ретроперспектива",
+        "DESCRIPTION": "Даёт !B! Защиты в след. ходу. NL Вы кладете карту из стопки сброса в руку."
     },
     "thethorton:HitAhead": {
-        "NAME": "Hit Ahead",
-        "DESCRIPTION": "Наносит !D! урона. NL Next turn, Получите [E] ."
+        "NAME": "Выстрелить на ход",
+        "DESCRIPTION": "Наносит !D! урона. NL Даёт [E] в след. ходу ."
     },
     "thethorton:Investment": {
         "NAME": "Инвестиция",
-        "DESCRIPTION": "Эфирная. NL Whenever you play 4 thethorton:Инвестиция, получите a реликвия. NL Сжигается."
+        "DESCRIPTION": "Эфирная. NL Даёт реликвию, когда вы разыграваете 4 thethorton:Инвестиции. NL Сжигается."
     },
     "thethorton:LastDitchEffort": {
-        "NAME": "Last Ditch Effort",
-        "DESCRIPTION": "Наносит !D! урона. NL If your ОЗ is below 50%, Наносит !D! урона. NL If your ОЗ is below 25%, Наносит !D! урона."
+        "NAME": "Последний шанс выжить",
+        "DESCRIPTION": "Наносит !D! урона. NL Наносит !D! урона, если ваше ОЗ ниже 50%. NL Наносит !D! урона, если ваше ОЗ ниже 25%."
     },
     "thethorton:LongDaysWork": {
-        "NAME": "Long Day's Work",
-        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигается 1 card at random.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигается 1 card."
+        "NAME": "Долгий день работы",
+        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигается 1 случайную карту.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы берёте 1 карту. NL Сжигает 1 карту."
     },
     "thethorton:LongTermPayoff": {
-        "NAME": "Long Term Payoff",
-        "DESCRIPTION": "At the start of each of your turns, Наносит !M! урона to ВСЕМ врагам."
+        "NAME": "Долгосрочная выплата",
+        "DESCRIPTION": "Наносит !M! урона ВСЕМ врагам в начале каждого вашего хода."
     },
     "thethorton:MomentaryBreak": {
-        "NAME": "Lunch Break",
+        "NAME": "Перерыв на обед",
         "DESCRIPTION": "Восполняет !M! ОЗ. NL Добавляет thethorton:карта_бизнеса в стопку добора. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. NL Добавляет thethorton:карта_бизнеса в руку. NL Сжигается."
     },
     "thethorton:OddChange": {
         "NAME": "Талант озадачивать",
-        "DESCRIPTION": "Получите 3 of either Malleable, Artifact, Thorns or Plated Armor randomly.",
-        "UPGRADE_DESCRIPTION": "Начальная. NL Получите 3 of either Malleable, Artifact, Thorns or Plated Armor randomly."
+        "DESCRIPTION": "Даёт 3 Податливости, Артефакта, Шипов или Панциря. Выбирается случайно.",
+        "UPGRADE_DESCRIPTION": "Начальная. NL Даёт 3 Податливости, Артефакта, Шипов или Панциря. Выбирается случайно."
     },
     "thethorton:PennyToss": {
         "NAME": "Бросок монеты",
@@ -385,11 +385,11 @@
     },
     "thethorton:SuperStrike": {
         "NAME": "Удар?",
-        "DESCRIPTION": "Bash the target враг with your briefcase, inflicting !D! physical урона. This урона is affected by Силы, Слабости, Flying, Vulnerable, and other урона modifiers. This card moves to the discard pile when played."
+        "DESCRIPTION": "Вломите врагу этим портфелем и нанесите !D! физического урона. Этот урон меняется от  Силы, Слабости, Полета, Уязвимости, и прочих модификаторов урона. Эта карта уходит в стопку сброса при розыгрыше."
     },
     "thethorton:SuperDefend": {
         "NAME": "Оборона?",
-        "DESCRIPTION": "Shield yourself from враг attacks with your briefcase, completely preventing the next !B! physical урона taken this turn. The amount of урона prevented is increased by the user's Dexterity. This card moves to the discard pile when played."
+        "DESCRIPTION": "Защитите себя от атака врага этим портфелем, полностью отменяя след. !B! физического урона в этом ходу. Количество отмененного урона увеличивается с Ловкостью. Эта карта уходит в стопку сброса при розыгрыше."
     },
     "thethorton:MidnightStrike": {
         "NAME": "Полуночный Удар",
@@ -404,7 +404,7 @@
     },
     "thethorton:Nibble": {
         "NAME": "Клев",
-        "DESCRIPTION": "Наносит !D! урона. NL Получите !M! Temporary_ОЗ."
+        "DESCRIPTION": "Наносит !D! урона. NL Даёт !M! временных_оз."
     },
     "thethorton:OhNo": {
         "NAME": "О нет",
