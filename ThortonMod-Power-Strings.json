@@ -2,64 +2,64 @@
     "thethorton:CowardPower": {
         "NAME": "Coward Form",
         "DESCRIPTIONS": [
-            "At the start of your turn, #yRun.",
-            "At the start of your turn, #yRun #b",
-            " times."
+            "#yУбегание в начале каждого вашего хода.",
+            "#yУбегание #b",
+            " раз(а) в начале каждого вашего хода."
         ]
     },
     "thethorton:ReocurringDamagePower": {
-        "NAME": "Инвестиция Beam",
+        "NAME": "Луч инвестиций",
         "DESCRIPTIONS": [
-            "At the start of your turn, deal #b",
-            " damage to ALL enemies."
+            "Наносит #b",
+            " урона ВСЕМ врагам в начале каждого хода."
         ]
     },
     "thethorton:SilencedBuffsPower": {
-        "NAME": "Demoted - Buffs",
+        "NAME": "Понижен - Полож. эффекты",
         "DESCRIPTIONS": [
-            " cannot buff itself."
+            " не может накладывать на себя полож. эффекты."
         ]
     },
     "thethorton:SilencedDebuffsPower": {
-        "NAME": "Demoted - Debuffs",
+        "NAME": "Понижен - Отриц. эффекты",
         "DESCRIPTIONS": [
-            " cannot debuff you."
+            " не может накладывать на вас отриц. эффекты."
         ]
     },
     "thethorton:TemporalPower": {
-        "NAME": "Temporal Abilities",
+        "NAME": "Временной взрыв",
         "DESCRIPTIONS": [
-            "The next card you play this turn is played at the start of the next combat.",
-            "The next #b",
-            " cards you play this turn are played at the start of the next combat."
+            "Копия следующей карты в этом ходу разыгрывается в начале след. боя.",
+            "Копии следующих #b",
+            " карт в этом ходу разыгрываются в начаое след. боя."
         ]
     },
     "thethorton:ThickSkinPower": {
-        "NAME": "Thick Skin",
+        "NAME": "Толстокожесть",
         "DESCRIPTIONS": [
-            "Whenever you lose non-Temporary HP, gain #b",
-            " #yTemporary #yHP."
+            "Даёт #b",
+            " #yвременных #yоз, когда вы теряете не временные ОЗ.."
         ]
     },
     "thethorton:SplitCopy": {
-        "NAME": "Split",
+        "NAME": "Деление",
         "DESCRIPTIONS": [
-            "When its HP is at or below #b50%, will split into #b2 smaller Hexaghosts with ",
-            "'s current HP."
+            "Делится на #b2 меньших Гексадуха с ",
+            " текущих ОЗ, потеряв #b50% ОЗ."
         ]
     },
     "thethorton:DeepFearPower": {
-        "NAME": "Deep Fear",
+        "NAME": "Затаенный страх",
         "DESCRIPTIONS": [
-            "Whenever you receive unblocked attack damage, #yRun.",
-            "Whenever you receive unblocked attack damage, #yRun #b",
-            " times."
+            "#yУбегание, когда вы теряете ОЗ от атак.",
+            "#yУбегание #b",
+            " раз, когда вы теряете ОЗ от атак."
         ]
     },
     "thethorton:TrueFormPower": {
-        "NAME": "True Form",
+        "NAME": "Истинный облик",
         "DESCRIPTIONS": [
-            "ERROR ERROR ERROR"
+            "ОШИБКА ОШИБКА ОШИБКА"
         ]
     }
 }

@@ -1,76 +1,77 @@
+
 {
     "thethorton:CouragePotion": {
         "NAME": "Зелье храбрости",
-        "FLAVOR": "Drink in emergencies.",
+        "FLAVOR": "Пить в экстренных случаях.",
         "DESCRIPTIONS": [
-            "Start each Elite combat with #b2 #yStrength."
+            "Даёт #b2 #yСилы в начале боя с элитными врагами."
         ]
     },
     "thethorton:BottledFunds": {
         "NAME": "Фонд в бутылке",
         "FLAVOR": "Выглядит пусто.",
         "DESCRIPTIONS": [
-            "Upon pickup, choose a card in your deck. At the start of each combat, play and #yExhaust a copy of it.",
-            "At the start of each combat, play and #yExhaust a copy of ",
+            "При получении вы выберете карту в колоде. Вы разгрываете и #yСжигаете копию этой карты в начале каждого боя.",
+            "В начале боя разыграйте и #yСожгите копию ",
             ".",
-            "Select a card to bottle for "
+            "Выберите карту, на которую подействует "
         ]
     },
     "thethorton:BankDeed": {
-        "NAME": "Bank Deed",
-        "FLAVOR": "Dad gave this to me.",
+        "NAME": "Банковский акт",
+        "FLAVOR": "Его дал мне папа.",
         "DESCRIPTIONS": [
-            "Whenever you climb a floor, gain #b2% interest on held #yGold."
+            "Даёт долю в #b2% вашего #yзолота при входе в комнату."
         ]
     },
     "thethorton:BusinessCardPrinter": {
-        "NAME": "бизнес Card Printer",
-        "FLAVOR": "Look at that subtle off-white color. The tasteful thickness of it. Oh my God, it even has a watermark.",
+        "NAME": "Принтер бизнес-карт",
+        "FLAVOR": "Посмотрите на этот деликатный оттенок белого. Его одухотворенное обилие. О боже, у него даже есть водяной знак.",
         "DESCRIPTIONS": [
-            "At the start of each combat, add a #ythethorton:Business_Card into your hand."
+            "Добавляет #ythethorton:карту_бизнеса в руку в начале каждого боя."
         ]
     },
     "thethorton:CrushedCigarette": {
-        "NAME": "Lucky Clover",
-        "FLAVOR": "Why ever stop?",
+        "NAME": "Клевер удачи",
+        "FLAVOR": "Зачем останавливаться?",
         "DESCRIPTIONS": [
-            "#b66% chance to gain [E] at the start of your turn."
+            "Даёт [E] в начале вашего хода с #b66% шансом."
         ]
     },
     "thethorton:GreedFountain": {
-        "NAME": "Monopoly",
-        "FLAVOR": "I just can't help myself.",
+        "NAME": "Монополия",
+        "FLAVOR": "Я просто не могу ничего с собой поделать.",
         "DESCRIPTIONS": [
-            "Gain #b50% more #yGold from all sources."
+            "Вы получаете на #b50% больше #yзолота из всех источников."
         ]
     },
     "thethorton:BrokenCalculator": {
-        "NAME": "Broken Calculator",
-        "FLAVOR": "So what if the math's in my favor?",
+        "NAME": "Сломанный калькулятор",
+        "FLAVOR": "И что, если расчеты в мою пользу?",
         "DESCRIPTIONS": [
-            "At the start of each combat, play a random Thorton card."
+            "Вы разыгрываете случ. карту Тортона в начале каждого боя."
         ]
     },
     "thethorton:Resume": {
-        "NAME": "Resume",
-        "FLAVOR": "Graduate of the University of Arizona.",
+        "NAME": "Резюме",
+        "FLAVOR": "Выпускник Университета Аризоны.",
         "DESCRIPTIONS": [
-            "The amount of #ythethorton:Business_Cards required to obtain a #yRelic is reduced by #b3."
+            "Количество #ythethorton:бизнес_карт, требующихся для получения #yРеликвий уменьшено на #b3."
         ]
     },
     "thethorton:StoneOfSprinting": {
-        "NAME": "Helm of Sprinting",
-        "FLAVOR": "Helps Сбежать efforts.",
+        "NAME": "Шлем пробежки",
+        "FLAVOR": "Помогает в побеге.",
         "DESCRIPTIONS": [
-            "At the start of each combat, add a random card with #ythethorton:Run into your hand. It costs #b0 this combat."
+            "Добавляет случ. карту с #ythethorton:Убегание в руку в начале каждого боя. It costs #b0 this combat."
         ]
     },
     "thethorton:TimeNecklace": {
-        "NAME": "Necklace of Time",
-        "FLAVOR": "Your secret powers, revealed!",
+        "NAME": "Колье Времени",
+        "FLAVOR": "Твои секретные способности, раскрыты!",
         "DESCRIPTIONS": [
-            "Replaces ",
-            ".[] NL Start each Elite combat with #b3 #yStrength, #b3 #yDexterity and #b3 #yFocus."
+            "Заменяет ",
+            ".[] NL Даёт #b3 #yСилы, #b3 #yЛовкости и  #b3 #yФокуса в начале боя с элитными врагами."
         ]
     }
 }

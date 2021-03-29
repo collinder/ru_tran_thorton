@@ -43,20 +43,20 @@
     {
         "PROPER_NAME": "Убегание",
         "NAMES": [
-            "run",
+            "убегание",
             "running"
         ],
-        "DESCRIPTION": "After #yУбегание a certain amount of times, #pСбежать #pcombat. If you're fighting a boss, Наносит урона based on the boss's Max ОЗ to ВСЕМ врагам instead. #rEscaping #rgets #rharder #revery #rtime #ryou #rСбежать."
+        "DESCRIPTION": "После #yУбегания определенное количество раз, #pСбежать из #pбоя. Наносит урон, основанный на Макс. ОЗ босса ВСЕМ врагам вместо этого, если вы сражаетесь с боссом. #rУбегание #rстановится #rсложнее #rкаждый #rраз, #rкогда #rвы #rУбегаете."
     },
     {
-        "PROPER_NAME": "бизнес Card",
+        "PROPER_NAME": "Карта бизнеса",
         "NAMES": [
-            "business card",
-            "business_card",
-            "business cards",
-            "business_cards"
+            "карта бизнеса",
+            "карта_бизнеса",
+            "карты бизнеса",
+            "карты_бизнеса"
         ],
-        "DESCRIPTION": "Whenever you play #b10 #yбизнес #yCards, получите a #yреликвия."
+        "DESCRIPTION": "Даёт #yреликвию, когда вы разыгрываете #b10 #yкарт #yбизнеса."
     },
     {
         "PROPER_NAME": "Full Flame",
@@ -71,10 +71,10 @@
     {
         "PROPER_NAME": "Инвестиция",
         "NAMES": [
-            "investment",
-            "investments"
+            "инвестиция",
+            "инвестиции"
         ],
-        "DESCRIPTION": "Whenever you play #b4 #yИнвестиция, получите a #yреликвия."
+        "DESCRIPTION": "Даёт #yреликвию, когда вы разыгрываете #b4 #yИнвестиции."
     },
     {
         "PROPER_NAME": "Locked",
